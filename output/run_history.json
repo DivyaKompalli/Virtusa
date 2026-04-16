@@ -1,0 +1,643 @@
+[
+  {
+    "ts": "2026-03-30 22:12:17",
+    "payer_id": "cigna",
+    "cpt_codes": [
+      ""
+    ],
+    "icd_codes": [
+      "R52"
+    ],
+    "status": "DENIED",
+    "confidence": 100
+  },
+  {
+    "ts": "2026-03-30 22:15:57",
+    "payer_id": "aetna",
+    "cpt_codes": [
+      ""
+    ],
+    "icd_codes": [
+      "R52"
+    ],
+    "status": "PENDING_MORE_INFO",
+    "confidence": 95
+  },
+  {
+    "ts": "2026-03-30 22:17:45",
+    "payer_id": "uhc",
+    "cpt_codes": [
+      "99213"
+    ],
+    "icd_codes": [
+      "I10",
+      "I11.9",
+      "I13.10"
+    ],
+    "status": "DENIED",
+    "confidence": 95
+  },
+  {
+    "ts": "2026-03-30 22:39:34",
+    "payer_id": "aetna",
+    "cpt_codes": [
+      "99213"
+    ],
+    "icd_codes": [
+      "I10",
+      "I11.9",
+      "I13.10"
+    ],
+    "status": "APPROVED",
+    "confidence": 95
+  },
+  {
+    "ts": "2026-03-30 22:41:59",
+    "payer_id": "aetna",
+    "cpt_codes": [
+      "99213"
+    ],
+    "icd_codes": [
+      "I10",
+      "I11.9",
+      "I13.10",
+      "E11.9"
+    ],
+    "status": "APPROVED",
+    "confidence": 95
+  },
+  {
+    "ts": "2026-03-30 22:45:51",
+    "payer_id": "aetna",
+    "cpt_codes": [
+      "99213"
+    ],
+    "icd_codes": [
+      "E11.9",
+      "E11.65",
+      "E11.649"
+    ],
+    "status": "APPROVED",
+    "confidence": 95
+  },
+  {
+    "ts": "2026-03-30 22:50:34",
+    "payer_id": "aetna",
+    "cpt_codes": [
+      "94640"
+    ],
+    "icd_codes": [
+      "J45.51",
+      "J45.901",
+      "J45.41"
+    ],
+    "status": "PENDING_MORE_INFO",
+    "confidence": 85
+  },
+  {
+    "ts": "2026-03-30 22:54:33",
+    "payer_id": "aetna",
+    "cpt_codes": [
+      "94640"
+    ],
+    "icd_codes": [
+      "J45.51",
+      "J45.901",
+      "J45.41"
+    ],
+    "status": "APPROVED",
+    "confidence": 85
+  },
+  {
+    "ts": "2026-03-30 22:58:28",
+    "payer_id": "aetna",
+    "cpt_codes": [
+      ""
+    ],
+    "icd_codes": [
+      "R50.9",
+      "R52"
+    ],
+    "status": "PENDING_MORE_INFO",
+    "confidence": 0
+  },
+  {
+    "ts": "2026-03-30 23:02:06",
+    "payer_id": "aetna",
+    "cpt_codes": [
+      "99213"
+    ],
+    "icd_codes": [
+      "E11.9",
+      "E11.65",
+      "E11.649"
+    ],
+    "status": "APPROVED",
+    "confidence": 90
+  },
+  {
+    "ts": "2026-03-30 23:05:08",
+    "payer_id": "aetna",
+    "cpt_codes": [
+      "94640"
+    ],
+    "icd_codes": [
+      "J45.51",
+      "J45.901",
+      "J45.41"
+    ],
+    "status": "APPROVED",
+    "confidence": 90
+  },
+  {
+    "ts": "2026-03-30 23:08:45",
+    "payer_id": "cigna",
+    "cpt_codes": [
+      "99213"
+    ],
+    "icd_codes": [
+      "I10",
+      "I11.9",
+      "I13.10",
+      "E11.9"
+    ],
+    "status": "DENIED",
+    "confidence": 95
+  },
+  {
+    "ts": "2026-03-30 23:13:05",
+    "payer_id": "cigna",
+    "cpt_codes": [
+      ""
+    ],
+    "icd_codes": [
+      "R50.9",
+      "R52"
+    ],
+    "status": "PENDING_MORE_INFO",
+    "confidence": 0
+  },
+  {
+    "ts": "2026-03-30 23:16:02",
+    "payer_id": "cigna",
+    "cpt_codes": [
+      ""
+    ],
+    "icd_codes": [
+      "R50.9",
+      "R52"
+    ],
+    "status": "DENIED",
+    "confidence": 95
+  },
+  {
+    "ts": "2026-03-30 23:19:13",
+    "payer_id": "cigna",
+    "cpt_codes": [
+      "99213"
+    ],
+    "icd_codes": [
+      "E11.9",
+      "E11.65",
+      "E11.649"
+    ],
+    "status": "DENIED",
+    "confidence": 90
+  },
+  {
+    "ts": "2026-03-30 23:21:21",
+    "payer_id": "cigna",
+    "cpt_codes": [
+      "99213"
+    ],
+    "icd_codes": [
+      "I10",
+      "I11.9",
+      "I13.10"
+    ],
+    "status": "PENDING_MORE_INFO",
+    "confidence": 0
+  },
+  {
+    "ts": "2026-03-30 23:36:53",
+    "payer_id": "cigna",
+    "cpt_codes": [
+      "99213"
+    ],
+    "icd_codes": [
+      "I10",
+      "I11.9",
+      "I13.10"
+    ],
+    "status": "PENDING_MORE_INFO",
+    "confidence": 0
+  },
+  {
+    "ts": "2026-03-30 23:42:33",
+    "payer_id": "cigna",
+    "cpt_codes": [
+      "94640"
+    ],
+    "icd_codes": [
+      "J45.51",
+      "J45.901",
+      "J45.41"
+    ],
+    "status": "PENDING_MORE_INFO",
+    "confidence": 0
+  },
+  {
+    "ts": "2026-03-30 23:51:23",
+    "payer_id": "cigna",
+    "cpt_codes": [
+      "99213"
+    ],
+    "icd_codes": [
+      "E11.9",
+      "E11.65",
+      "E11.649"
+    ],
+    "status": "PENDING_MORE_INFO",
+    "confidence": 0
+  },
+  {
+    "ts": "2026-03-30 23:59:56",
+    "payer_id": "cigna",
+    "cpt_codes": [
+      "99213"
+    ],
+    "icd_codes": [
+      "E11.9",
+      "E11.65",
+      "E11.649"
+    ],
+    "status": "PENDING_MORE_INFO",
+    "confidence": 85
+  },
+  {
+    "ts": "2026-03-31 00:09:48",
+    "payer_id": "cigna",
+    "cpt_codes": [
+      ""
+    ],
+    "icd_codes": [
+      "R50.9",
+      "R52"
+    ],
+    "status": "PENDING_MORE_INFO",
+    "confidence": 0
+  },
+  {
+    "ts": "2026-03-31 00:21:06",
+    "payer_id": "aetna",
+    "cpt_codes": [
+      ""
+    ],
+    "icd_codes": [
+      "R52"
+    ],
+    "status": "PENDING_MORE_INFO",
+    "confidence": 0
+  },
+  {
+    "ts": "2026-03-31 00:24:24",
+    "payer_id": "aetna",
+    "cpt_codes": [
+      ""
+    ],
+    "icd_codes": [
+      "R52"
+    ],
+    "status": "PENDING_MORE_INFO",
+    "confidence": 0
+  },
+  {
+    "ts": "2026-03-31 00:30:15",
+    "payer_id": "aetna",
+    "cpt_codes": [
+      ""
+    ],
+    "icd_codes": [
+      "R52"
+    ],
+    "status": "PENDING_MORE_INFO",
+    "confidence": 0
+  },
+  {
+    "ts": "2026-03-31 00:34:42",
+    "payer_id": "aetna",
+    "cpt_codes": [
+      "94640"
+    ],
+    "icd_codes": [
+      "J45.51",
+      "J45.901",
+      "J45.41"
+    ],
+    "status": "PENDING_MORE_INFO",
+    "confidence": 0
+  },
+  {
+    "ts": "2026-03-31 00:37:38",
+    "payer_id": "aetna",
+    "cpt_codes": [
+      "94640"
+    ],
+    "icd_codes": [
+      "J45.51",
+      "J45.901",
+      "J45.41"
+    ],
+    "status": "PENDING_MORE_INFO",
+    "confidence": 0
+  },
+  {
+    "ts": "2026-03-31 00:40:21",
+    "payer_id": "aetna",
+    "cpt_codes": [
+      "94640"
+    ],
+    "icd_codes": [
+      "J45.51",
+      "J45.901",
+      "J45.41",
+      "E11.9"
+    ],
+    "status": "PENDING_MORE_INFO",
+    "confidence": 0
+  },
+  {
+    "ts": "2026-03-31 00:42:32",
+    "payer_id": "aetna",
+    "cpt_codes": [
+      "94640"
+    ],
+    "icd_codes": [
+      "J45.51",
+      "J45.901",
+      "J45.41",
+      "E11.9"
+    ],
+    "status": "APPROVED",
+    "confidence": 90
+  },
+  {
+    "ts": "2026-03-31 00:45:48",
+    "payer_id": "aetna",
+    "cpt_codes": [
+      ""
+    ],
+    "icd_codes": [
+      "R50.9",
+      "R52"
+    ],
+    "status": "PENDING_MORE_INFO",
+    "confidence": 0
+  },
+  {
+    "ts": "2026-03-31 00:48:53",
+    "payer_id": "aetna",
+    "cpt_codes": [
+      "94640"
+    ],
+    "icd_codes": [
+      "J45.51",
+      "J45.901",
+      "J45.41"
+    ],
+    "status": "PENDING_MORE_INFO",
+    "confidence": 0
+  },
+  {
+    "ts": "2026-03-31 10:24:38",
+    "payer_id": "aetna",
+    "cpt_codes": [
+      ""
+    ],
+    "icd_codes": [
+      "R52"
+    ],
+    "status": "PENDING_MORE_INFO",
+    "confidence": 95
+  },
+  {
+    "ts": "2026-03-31 11:32:26",
+    "payer_id": "aetna",
+    "cpt_codes": [
+      ""
+    ],
+    "icd_codes": [
+      "R52"
+    ],
+    "status": "PENDING_MORE_INFO",
+    "confidence": 95
+  },
+  {
+    "ts": "2026-03-31 11:46:18",
+    "payer_id": "uhc",
+    "cpt_codes": [
+      ""
+    ],
+    "icd_codes": [
+      "R52"
+    ],
+    "status": "PENDING_MORE_INFO",
+    "confidence": 0
+  },
+  {
+    "ts": "2026-03-31 14:10:52",
+    "payer_id": "uhc",
+    "cpt_codes": [
+      ""
+    ],
+    "icd_codes": [
+      "R52"
+    ],
+    "status": "DENIED",
+    "confidence": 95
+  },
+  {
+    "ts": "2026-03-31 14:12:25",
+    "payer_id": "uhc",
+    "cpt_codes": [
+      "94640"
+    ],
+    "icd_codes": [
+      "J45.51",
+      "J45.901",
+      "J45.41",
+      "E11.9"
+    ],
+    "status": "DENIED",
+    "confidence": 85
+  },
+  {
+    "ts": "2026-03-31 14:14:43",
+    "payer_id": "uhc",
+    "cpt_codes": [
+      ""
+    ],
+    "icd_codes": [
+      "R05.9"
+    ],
+    "status": "DENIED",
+    "confidence": 100
+  },
+  {
+    "ts": "2026-03-31 14:15:28",
+    "payer_id": "uhc",
+    "cpt_codes": [
+      "94640"
+    ],
+    "icd_codes": [
+      "J45.51",
+      "J45.901",
+      "J45.41"
+    ],
+    "status": "DENIED",
+    "confidence": 95
+  },
+  {
+    "ts": "2026-03-31 14:21:06",
+    "payer_id": "uhc",
+    "cpt_codes": [
+      "94640"
+    ],
+    "icd_codes": [
+      "J45.51",
+      "J45.901",
+      "J45.41"
+    ],
+    "status": "DENIED",
+    "confidence": 95
+  },
+  {
+    "ts": "2026-03-31 14:31:50",
+    "payer_id": "uhc",
+    "cpt_codes": [
+      "94640"
+    ],
+    "icd_codes": [
+      "J45.51",
+      "J45.901",
+      "J45.41"
+    ],
+    "status": "DENIED",
+    "confidence": 95
+  },
+  {
+    "ts": "2026-03-31 16:54:08",
+    "payer_id": "uhc",
+    "cpt_codes": [
+      ""
+    ],
+    "icd_codes": [
+      "R05.9"
+    ],
+    "status": "DENIED",
+    "confidence": 100
+  },
+  {
+    "ts": "2026-03-31 16:56:19",
+    "payer_id": "uhc",
+    "cpt_codes": [
+      "94640"
+    ],
+    "icd_codes": [
+      "J45.51",
+      "J45.901",
+      "J45.41"
+    ],
+    "status": "DENIED",
+    "confidence": 95
+  },
+  {
+    "ts": "2026-04-09 22:57:39",
+    "payer_id": "uhc",
+    "cpt_codes": [
+      ""
+    ],
+    "icd_codes": [],
+    "status": "ERROR",
+    "confidence": 0
+  },
+  {
+    "ts": "2026-04-10 00:00:34",
+    "payer_id": "aetna",
+    "cpt_codes": [
+      "94640"
+    ],
+    "icd_codes": [
+      "J45.51",
+      "J45.901",
+      "J45.41"
+    ],
+    "status": "PENDING_MORE_INFO",
+    "confidence": 90
+  },
+  {
+    "ts": "2026-04-10 00:07:55",
+    "payer_id": "aetna",
+    "cpt_codes": [
+      ""
+    ],
+    "icd_codes": [
+      "R52"
+    ],
+    "status": "PENDING_MORE_INFO",
+    "confidence": 100
+  },
+  {
+    "ts": "2026-04-10 00:10:29",
+    "payer_id": "aetna",
+    "cpt_codes": [
+      ""
+    ],
+    "icd_codes": [
+      "R52"
+    ],
+    "status": "PENDING_MORE_INFO",
+    "confidence": 100
+  },
+  {
+    "ts": "2026-04-10 12:27:59",
+    "payer_id": "aetna",
+    "cpt_codes": [
+      ""
+    ],
+    "icd_codes": [
+      "R52"
+    ],
+    "status": "PENDING_MORE_INFO",
+    "confidence": 95
+  },
+  {
+    "ts": "2026-04-10 12:39:10",
+    "payer_id": "aetna",
+    "cpt_codes": [
+      "94640"
+    ],
+    "icd_codes": [
+      "J45.51",
+      "J45.901",
+      "J45.41",
+      "E11.9"
+    ],
+    "status": "APPROVED",
+    "confidence": 90
+  },
+  {
+    "ts": "2026-04-10 12:49:11",
+    "payer_id": "aetna",
+    "cpt_codes": [
+      "94640"
+    ],
+    "icd_codes": [
+      "J45.51",
+      "J45.901",
+      "J45.41"
+    ],
+    "status": "PENDING_MORE_INFO",
+    "confidence": 85
+  }
+]
